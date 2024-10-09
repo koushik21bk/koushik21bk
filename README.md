@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with SpringBoot, Python, Django<br>🌱 I’m currently learning Python<br>
+🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with SpringBoot, Microservices, AWS<br>🌱 I’m currently learning Python<br>
 
 
 ## 🌐 Socials:
