@@ -10,9 +10,7 @@ Actively building skills through projects and continuous learning.
 **Cloud & Data Platforms**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=plastic&logo=databricks&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+
 
 **DevOps & OS**  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)
